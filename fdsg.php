@@ -4,8 +4,10 @@ class Car
     public $color;
     public $year;
     public $manufacturer;
+    igouiyfyitfuyjtfyty]
+        pojoijliuhiu
 
-    public function __construct($color, $year, $izgotovitel)
+    public functzsdrgsdrghsfdhsfhjion __construct($color, $year, $izgotovitel)
     {
         $this->color = $color;
         $this->year = $year;
